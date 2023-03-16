@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="krrsumit@outlook.com" target="_blank">
+  <a href="mailto:krrsumit@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://twitter.com/isumtk" target="_blank">
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/isumtk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/1072845169260515488" target="_blank">
+  <a href="https://discordapp.com/users/1072845169260515488" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
