@@ -1,19 +1,5 @@
-<h1 align="center">Hello World</h1>
-
-###
-
 <div align="center">
-  <img height="200" src="https://avatarfiles.alphacoders.com/160/160477.png"  />
-</div>
-
-###
-
-<h2 align="center">My name is Sumit Kumar</h2>
-
-###
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isumtk&show_icons=true&locale=en&layout=compact" height="250" alt="isumtk" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isumtk&show_icons=true&locale=en&layout=compact" height="200" alt="isumtk" />
 </div>
 
 ###
